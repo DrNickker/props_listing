@@ -1,7 +1,7 @@
 import React from 'react';
 import './main.css';
 import Listing from './components/listing';
-import {etsy} from './components/data'
+import { etsy } from './components/data';
 
 function App() {
   const arr = []
